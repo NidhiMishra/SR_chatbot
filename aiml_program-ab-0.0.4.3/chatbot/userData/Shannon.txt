@@ -1,0 +1,157 @@
+contactbirthday:unknown
+familiarcontactid:unknown
+birthdate:royal
+county:which
+branch:Daniel
+three:Sylvester Stallone
+familiarcontactname:unknown
+favoriteactor:who
+province:which
+her:up readings of Bitten
+road:which
+four:Lena Horne
+friend:who
+sraix:ALARMFAILED
+contacturi:unknown
+state:which
+sister:who
+they:cookies
+badanswer-newresp:and i can not lie
+contacttype:unknown
+wife:who
+want:to be good
+them:who
+is:android fan you think android is better than apple you guess I am an apple person
+emailaddress:unknown
+dislikes:cooking
+it:leo
+multipleids:false
+lastname:what
+multiplenames:<displayname>lt</displayname>, <displayname>multipleids</displayname>, I like to know what's going on., <displayname>ME</displayname>, <displayname>lt</displayname>, <displayname>slash</displayname>, <displayname>multipleids</displayname>
+birthplace:where
+dialnumber:unknown
+nationality:chinese
+phone:my phone number
+seventh:unknown
+meta:set
+response2:OK What should I have said?
+matched:false
+response1:and i can not lie..."?  	 	Do you want me to remember that?
+favoriteactress:who
+brother:who
+dog:who
+status:what
+favoritetvshow:what
+gender:female
+city:which
+contactid:unknown
+boyfriend:who
+latitude:which
+phonenumber:unknown
+isanumber:false
+two:Kathie Lee Gifford
+eight:Comedian Dennis Miller
+sixth:unknown
+top:unknown
+does:Basketball
+email:what
+familiarpronoun:unknown
+address:where
+star:yes
+grandmother:who
+one:the NRA's Wayne LaPierre
+favoritemovie:what
+religion:unknown
+newcontact:unknown
+voicemailnumber:unknown
+displayname:unknown
+checkednameoruri:false
+fifth:unknown
+fourth:unknown
+country:which
+contactquery:unknown
+nine:Wallace Shawn
+favoritedrink:what
+isanemailaddress:false
+favoriteband:who
+favoritesport:what
+sign:leo
+husband:who
+isacontacturi:false
+second:unknown
+favoriteicecream:what
+mother:who
+son:who
+forceaddcontact:false
+hehas:Nadia gone
+employer:who
+nephew:who
+grandfather:who
+checkedfamiliarname:false
+has:what
+residence:where
+iama:singaporean
+five:Jean-Paul Sartre
+bestfriend:who
+likes:work with new computers
+favoritefood:hamburger
+contactaddress:unknown
+familiarname:unknown
+town:which
+last:Your problems
+like:it here you like singing
+externalname:unknown
+favoritecolor:what
+longitute:which
+familiarpredicate:unknown
+girlfriend:who
+she:who
+isaname:false
+customname:unknown
+name:Shannon
+topic:leo
+job:RESEARCHER
+daughter:who
+isfamiliarname:
+birthday:when
+request:i love you
+firstname:Danielle
+doing:come and visit nadia
+isaphonenumber:false
+memory:remember
+contactlist:<item><displayname>lt</displayname></item><item><displayname>multipleids</displayname></item>I have a lot of compassion for others.<item><displayname>ME</displayname></item><item><displayname>lt</displayname></item><item><displayname>slash</displayname></item><item><displayname>multipleids</displayname></item><item>None of the above</item>
+father:who
+we:who
+savedtopic:PLAY BASKETBALL
+favoritesong:what
+contactname:unknown
+hair:what
+messagebody:unknown
+niece:who
+personality:critical
+street:which
+cat:what
+favoritebook:what
+gendername:F
+favoritecar:what
+learnpattern:unknown
+modecom:unknown
+orientation:unknown
+newpattern:NORESP
+six:Meg Tilly
+learntemplate:a daughter Vanessa gets a daughter and her daughter is Julia
+looklike:fuzzy
+equalto:false
+middlename:what
+featurerequest:PLAY GAMES
+equal:IS a human EQUALTO an android
+third:unknown
+selectedcontact:what are you capable to do
+response:It warms my heart to hear those words.
+there:where
+baby:who
+location:where
+isshortanswer:true
+he:who
+age:how many
+isafamiliarname:false

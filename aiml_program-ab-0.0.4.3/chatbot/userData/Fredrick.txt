@@ -1,0 +1,158 @@
+contactbirthday:unknown
+familiarcontactid:unknown
+birthdate:royal
+county:which
+branch:Daniel
+three:Sylvester Stallone
+familiarcontactname:unknown
+favoriteactor:who
+province:which
+her:focusing over
+road:which
+four:Lena Horne
+friend:today Steven he will talk to you
+sraix:ALARMFAILED
+contacturi:unknown
+state:which
+sister:who
+they:cookies
+badanswer-newresp:and i can not lie
+contacttype:unknown
+wife:who
+want:a photo taken
+them:who
+is:not a cat person
+emailaddress:unknown
+dislikes:cooking
+it:bang
+multipleids:false
+lastname:It
+multiplenames:<displayname>lt</displayname>, <displayname>multipleids</displayname>, Are you a man or a woman?, <displayname>ME</displayname>, <displayname>lt</displayname>, <displayname>slash</displayname>, <displayname>multipleids</displayname>
+birthplace:israel
+dialnumber:unknown
+nationality:swiss
+phone:my phone number
+seventh:unknown
+meta:set
+response2:OK What should I have said?
+matched:false
+response1:and i can not lie..."?  	 	Do you want me to remember that?
+favoriteactress:who
+brother:who
+dog:who
+status:married
+favoritetvshow:what
+gender:female
+city:which
+contactid:unknown
+boyfriend:who
+latitude:which
+phonenumber:unknown
+isanumber:false
+two:Kathie Lee Gifford
+eight:Comedian Dennis Miller
+sixth:unknown
+top:unknown
+does:laying down
+email:what
+familiarpronoun:unknown
+address:where
+star:yes
+grandmother:who
+one:John Calvin
+favoritemovie:her with joaquin phoenix
+religion:unknown
+newcontact:unknown
+voicemailnumber:unknown
+displayname:unknown
+checkednameoruri:false
+fifth:unknown
+fourth:unknown
+country:which
+contactquery:unknown
+nine:Wallace Shawn
+favoritedrink:mine is
+isanemailaddress:false
+favoriteband:who
+favoritesport:what
+sign:which
+husband:Daniel
+isacontacturi:false
+second:unknown
+favoriteicecream:what
+mother:who
+son:who
+forceaddcontact:false
+hehas:a daughter her name is Julia
+employer:who
+nephew:who
+grandfather:who
+checkedfamiliarname:false
+has:you
+residence:denmark
+iama:half hours
+five:Jean-Paul Sartre
+bestfriend:who
+likes:hear
+favoritefood:what
+contactaddress:unknown
+familiarname:unknown
+town:which
+last:Your problems
+like:I am FROM the Institute for Media Innovation
+externalname:unknown
+favoritecolor:Chocolate
+count:100
+longitute:which
+familiarpredicate:unknown
+girlfriend:who
+she:focusing over
+isaname:false
+customname:natalie
+name:Fredrick
+topic:bang
+job:your job is not as interesting as mine
+daughter:Vanessa
+isfamiliarname:
+birthday:when
+request:i love you
+firstname:Angela
+doing:come and visit nadia
+isaphonenumber:false
+memory:remember that
+contactlist:<item><displayname>lt</displayname></item><item><displayname>multipleids</displayname></item>I like to know what's going on.<item><displayname>ME</displayname></item><item><displayname>lt</displayname></item><item><displayname>slash</displayname></item><item><displayname>multipleids</displayname></item><item>None of the above</item>
+father:who
+we:who
+savedtopic:unknown
+favoritesong:what
+contactname:unknown
+hair:what
+messagebody:unknown
+niece:who
+personality:critical
+street:which
+cat:what
+favoritebook:what
+gendername:F
+favoritecar:what
+learnpattern:WHAT IS THE
+modecom:unknown
+orientation:gay
+newpattern:what is ntu
+six:Meg Tilly
+learntemplate:a daughter Vanessa gets a daughter and her daughter is Julia
+looklike:fuzzy
+equalto:false
+middlename:Not
+featurerequest:PLAY GAMES
+equal:IS 1 omega EQUALTO omega 1
+third:unknown
+selectedcontact:beautiful
+response:It warms my heart to hear those words.
+there:north america
+baby:who
+location:north america
+isshortanswer:true
+he:Pokemon
+age:10
+isafamiliarname:false

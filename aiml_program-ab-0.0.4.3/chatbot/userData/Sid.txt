@@ -1,0 +1,131 @@
+contactbirthday:unknown
+familiarcontactid:unknown
+birthdate:royal
+county:which
+branch:Daniel
+familiarcontactname:unknown
+favoriteactor:who
+province:which
+her:up readings of Bitten
+road:which
+friend:who
+contacturi:unknown
+state:which
+sister:who
+they:cookies
+contacttype:unknown
+wife:who
+want:to be good
+them:who
+is:android fan you think android is better than apple you guess I am an apple person
+emailaddress:unknown
+dislikes:cooking
+it:p4
+multipleids:false
+lastname:what
+multiplenames:<displayname>lt</displayname>, <displayname>multipleids</displayname>, I like to know what's going on., <displayname>ME</displayname>, <displayname>lt</displayname>, <displayname>slash</displayname>, <displayname>multipleids</displayname>
+birthplace:where
+dialnumber:unknown
+nationality:chinese
+phone:my phone number
+meta:set
+favoriteactress:who
+brother:who
+dog:who
+status:what
+favoritetvshow:what
+gender:female
+city:which
+contactid:unknown
+boyfriend:who
+latitude:which
+phonenumber:unknown
+isanumber:false
+does:Basketball
+email:what
+familiarpronoun:unknown
+address:where
+grandmother:who
+favoritemovie:what
+religion:unknown
+newcontact:unknown
+voicemailnumber:unknown
+displayname:unknown
+checkednameoruri:false
+country:which
+contactquery:unknown
+favoritedrink:what
+isanemailaddress:false
+favoriteband:who
+favoritesport:what
+sign:which
+husband:who
+isacontacturi:false
+favoriteicecream:what
+mother:who
+son:who
+forceaddcontact:false
+hehas:Nadia gone
+employer:who
+nephew:who
+grandfather:who
+checkedfamiliarname:false
+has:what
+residence:where
+iama:singaporean
+bestfriend:who
+likes:work with new computers
+favoritefood:hamburger
+contactaddress:unknown
+familiarname:unknown
+town:which
+like:it here you like singing
+externalname:unknown
+favoritecolor:what
+longitute:which
+familiarpredicate:unknown
+girlfriend:who
+she:who
+isaname:false
+customname:unknown
+name:Sid
+topic:playing basketball
+job:RESEARCHER
+daughter:who
+isfamiliarname:
+birthday:when
+firstname:Danielle
+doing:come and visit nadia
+isaphonenumber:false
+contactlist:<item><displayname>lt</displayname></item><item><displayname>multipleids</displayname></item>I have a lot of compassion for others.<item><displayname>ME</displayname></item><item><displayname>lt</displayname></item><item><displayname>slash</displayname></item><item><displayname>multipleids</displayname></item><item>None of the above</item>
+father:who
+we:who
+savedtopic:PLAY BASKETBALL
+favoritesong:what
+contactname:unknown
+hair:what
+messagebody:unknown
+niece:who
+personality:critical
+street:which
+cat:what
+favoritebook:what
+gendername:F
+favoritecar:what
+learnpattern:unknown
+modecom:unknown
+orientation:unknown
+newpattern:NORESP
+learntemplate:a daughter Vanessa gets a daughter and her daughter is Julia
+looklike:fuzzy
+equalto:false
+middlename:what
+featurerequest:PLAY GAMES
+selectedcontact:what are you capable to do
+there:where
+baby:who
+location:where
+isshortanswer:true
+he:who
+age:how many
+isafamiliarname:false

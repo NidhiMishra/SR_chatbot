@@ -1,0 +1,120 @@
+contactbirthday:unknown
+familiarcontactid:unknown
+county:which
+familiarcontactname:unknown
+favoriteactor:who
+province:which
+her:up readings of Bitten
+road:which
+friend:who
+contacturi:unknown
+state:which
+sister:who
+contacttype:unknown
+wife:who
+want:to be good
+them:who
+emailaddress:unknown
+it:be in Singapore
+multipleids:false
+lastname:what
+multiplenames:<displayname>lt</displayname>, <displayname>multipleids</displayname>, I like to know what's going on., <displayname>ME</displayname>, <displayname>lt</displayname>, <displayname>slash</displayname>, <displayname>multipleids</displayname>
+birthplace:britain
+dialnumber:unknown
+nationality:chinese
+meta:set
+favoriteactress:who
+brother:who
+dog:who
+status:what
+favoritetvshow:what
+gender:female
+city:which
+contactid:unknown
+boyfriend:who
+latitude:which
+phonenumber:unknown
+isanumber:false
+does:Basketball
+email:what
+familiarpronoun:unknown
+address:where
+grandmother:who
+favoritemovie:what
+religion:unknown
+newcontact:unknown
+voicemailnumber:unknown
+displayname:unknown
+checkednameoruri:false
+country:which
+contactquery:unknown
+favoritedrink:what
+isanemailaddress:false
+favoriteband:who
+favoritesport:what
+sign:which
+husband:who
+isacontacturi:false
+favoriteicecream:what
+mother:who
+son:who
+forceaddcontact:false
+hehas:Nadia gone
+employer:who
+nephew:who
+grandfather:who
+checkedfamiliarname:false
+has:what
+residence:where
+iama:singaporean
+bestfriend:who
+likes:be in Singapore
+favoritefood:what
+contactaddress:unknown
+familiarname:unknown
+town:which
+like:it here you like singing
+externalname:unknown
+favoritecolor:what
+longitute:which
+familiarpredicate:unknown
+girlfriend:who
+she:who
+isaname:false
+customname:unknown
+name:Karamjit
+topic:be in Singapore
+job:student
+daughter:who
+isfamiliarname:Are you a man or a woman?
+birthday:when
+firstname:Nadia
+isaphonenumber:false
+contactlist:<item><displayname>lt</displayname></item><item><displayname>multipleids</displayname></item>I have a lot of compassion for others.<item><displayname>ME</displayname></item><item><displayname>lt</displayname></item><item><displayname>slash</displayname></item><item><displayname>multipleids</displayname></item><item>None of the above</item>
+father:who
+we:who
+savedtopic:PLAY BASKETBALL
+favoritesong:what
+contactname:unknown
+hair:what
+messagebody:unknown
+niece:who
+personality:critical
+street:which
+cat:what
+favoritebook:what
+gendername:F
+favoritecar:what
+learnpattern:unknown
+modecom:unknown
+orientation:unknown
+newpattern:NORESP
+equalto:false
+middlename:what
+selectedcontact:what are you capable to do
+there:Singapore
+baby:who
+location:England
+he:who
+age:how many
+isafamiliarname:false

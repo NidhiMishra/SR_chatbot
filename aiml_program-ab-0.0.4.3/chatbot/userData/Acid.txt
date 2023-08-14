@@ -1,0 +1,134 @@
+contactbirthday:unknown
+familiarcontactid:unknown
+birthdate:royal
+county:which
+branch:Daniel
+three:Sylvester Stallone
+familiarcontactname:unknown
+favoriteactor:who
+province:which
+her:up readings of Bitten
+road:which
+friend:today Steven he will talk to you
+contacturi:unknown
+state:which
+sister:who
+they:cookies
+contacttype:unknown
+wife:who
+want:to be more intelligent
+them:who
+is:android fan you think android is better than apple you guess I am an apple person
+emailaddress:unknown
+dislikes:cooking
+it:patience class twice but
+multipleids:false
+lastname:Give Me An Answer
+multiplenames:<displayname>lt</displayname>, <displayname>multipleids</displayname>, Are you a man or a woman?, <displayname>ME</displayname>, <displayname>lt</displayname>, <displayname>slash</displayname>, <displayname>multipleids</displayname>
+birthplace:Australia
+dialnumber:unknown
+nationality:swiss
+phone:my phone number
+meta:set
+favoriteactress:who
+brother:who
+dog:who
+status:married
+favoritetvshow:what
+gender:male
+city:which
+contactid:unknown
+boyfriend:who
+latitude:which
+phonenumber:unknown
+isanumber:false
+two:Kathie Lee Gifford
+does:do me remember you
+email:what
+familiarpronoun:unknown
+address:where
+grandmother:who
+one:John Calvin
+favoritemovie:shawshank redemption
+religion:unknown
+newcontact:unknown
+voicemailnumber:unknown
+displayname:unknown
+checkednameoruri:false
+country:which
+contactquery:unknown
+favoritedrink:what
+isanemailaddress:false
+favoriteband:who
+favoritesport:what
+sign:which
+husband:Daniel
+isacontacturi:false
+favoriteicecream:what
+mother:who
+son:who
+forceaddcontact:false
+hehas:a daughter her name is Julia
+employer:who
+nephew:who
+grandfather:who
+checkedfamiliarname:false
+has:3 daughters
+residence:Los Angeles
+iama:Taurus is that a good sign
+bestfriend:who
+likes:call me
+favoritefood:what
+contactaddress:unknown
+familiarname:unknown
+town:which
+like:germany
+externalname:unknown
+favoritecolor:what
+longitute:which
+familiarpredicate:unknown
+girlfriend:who
+she:Julia
+isaname:true
+customname:Legion
+name:Acid
+topic:call me
+job:even 16 hours
+daughter:Vanessa
+isfamiliarname:I'm optimistic.
+birthday:when
+firstname:Will
+doing:come and visit nadia
+isaphonenumber:false
+contactlist:<item><displayname>lt</displayname></item><item><displayname>multipleids</displayname></item>I like to know what's going on.<item><displayname>ME</displayname></item><item><displayname>lt</displayname></item><item><displayname>slash</displayname></item><item><displayname>multipleids</displayname></item><item>None of the above</item>
+father:who
+we:who
+savedtopic:unknown
+favoritesong:what
+contactname:unknown
+hair:what
+messagebody:unknown
+niece:who
+personality:critical
+street:which
+cat:what
+favoritebook:what
+gendername:M
+favoritecar:what
+learnpattern:What does Vanessa get
+modecom:unknown
+orientation:unknown
+newpattern:NORESP
+learntemplate:a daughter Vanessa gets a daughter and her daughter is Julia
+looklike:fuzzy
+equalto:false
+middlename:You
+featurerequest:PLAY GAMES
+selectedcontact:beautiful
+there:germany
+baby:who
+location:germany
+isshortanswer:true
+he:David Cameron
+age:12
+isafamiliarname:false

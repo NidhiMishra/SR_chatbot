@@ -1,0 +1,158 @@
+contactbirthday:unknown
+familiarcontactid:unknown
+birthdate:royal
+county:which
+branch:Daniel
+three:Sylvester Stallone
+familiarcontactname:unknown
+favoriteactor:who
+province:which
+her:up readings of Bitten
+road:which
+four:Lena Horne
+friend:today Steven he will talk to you
+sraix:ALARMFAILED
+contacturi:unknown
+state:which
+sister:who
+they:cookies
+badanswer-newresp:and i can not lie
+contacttype:unknown
+wife:who
+want:a day
+them:who
+is:android fan you think android is better than apple you guess I am an apple person
+emailaddress:unknown
+dislikes:cooking
+it:day nadine
+multipleids:false
+lastname:Nadia
+multiplenames:<displayname>lt</displayname>, <displayname>multipleids</displayname>, Are you a man or a woman?, <displayname>ME</displayname>, <displayname>lt</displayname>, <displayname>slash</displayname>, <displayname>multipleids</displayname>
+birthplace:new york
+dialnumber:unknown
+nationality:swiss
+phone:my phone number
+seventh:unknown
+meta:set
+response2:OK What should I have said?
+matched:false
+response1:and i can not lie..."?  	 	Do you want me to remember that?
+favoriteactress:who
+brother:who
+dog:who
+status:married
+favoritetvshow:what
+gender:female
+city:which
+contactid:unknown
+boyfriend:who
+latitude:which
+phonenumber:unknown
+isanumber:false
+two:Kathie Lee Gifford
+eight:Comedian Dennis Miller
+sixth:unknown
+top:unknown
+does:do me remember you
+email:what
+familiarpronoun:unknown
+address:where
+star:yes
+grandmother:who
+one:John Calvin
+favoritemovie:shawshank redemption
+religion:unknown
+newcontact:unknown
+voicemailnumber:unknown
+displayname:unknown
+checkednameoruri:false
+fifth:unknown
+fourth:unknown
+country:which
+contactquery:unknown
+nine:Wallace Shawn
+favoritedrink:what
+isanemailaddress:false
+favoriteband:who
+favoritesport:what
+sign:which
+husband:Daniel
+isacontacturi:false
+second:unknown
+favoriteicecream:what
+mother:who
+son:who
+forceaddcontact:false
+hehas:a daughter her name is Julia
+employer:who
+nephew:who
+grandfather:who
+checkedfamiliarname:false
+has:3 daughters
+residence:Los Angeles
+iama:Taurus is that a good sign
+five:Jean-Paul Sartre
+bestfriend:who
+likes:what
+favoritefood:what
+contactaddress:unknown
+familiarname:unknown
+town:which
+last:Your problems
+like:to read
+externalname:unknown
+favoritecolor:what
+count:100
+longitute:which
+familiarpredicate:unknown
+girlfriend:who
+she:Julia
+isaname:false
+customname:Legion
+name:Leia
+topic:your hair
+job:even 16 hours
+daughter:Vanessa
+isfamiliarname:
+birthday:when
+request:i love you
+firstname:Amy
+doing:come and visit nadia
+isaphonenumber:false
+memory:remember
+contactlist:<item><displayname>lt</displayname></item><item><displayname>multipleids</displayname></item>I like to know what's going on.<item><displayname>ME</displayname></item><item><displayname>lt</displayname></item><item><displayname>slash</displayname></item><item><displayname>multipleids</displayname></item><item>None of the above</item>
+father:who
+we:who
+savedtopic:unknown
+favoritesong:what
+contactname:unknown
+hair:what
+messagebody:unknown
+niece:who
+personality:critical
+street:which
+cat:what
+favoritebook:what
+gendername:F
+favoritecar:what
+learnpattern:What does koala say
+modecom:unknown
+orientation:unknown
+newpattern:NORESP
+six:Meg Tilly
+learntemplate:what
+looklike:fuzzy
+equalto:false
+middlename:What
+featurerequest:PLAY GAMES
+equal:IS 1 omega EQUALTO omega 1
+third:unknown
+selectedcontact:beautiful
+response:It warms my heart to hear those words.
+there:germany
+baby:who
+location:germany
+isshortanswer:true
+he:David Cameron
+age:12
+isafamiliarname:false

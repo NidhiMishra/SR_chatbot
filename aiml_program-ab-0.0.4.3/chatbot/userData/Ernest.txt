@@ -1,0 +1,129 @@
+contactbirthday:unknown
+familiarcontactid:unknown
+county:which
+branch:Daniel
+familiarcontactname:unknown
+favoriteactor:who
+province:which
+her:obsessed with Daniel
+road:which
+friend:who
+sraix:ALARMFAILED
+contacturi:unknown
+state:which
+sister:who
+they:cookies
+contacttype:unknown
+wife:who
+want:to be facebook friends
+them:who
+emailaddress:unknown
+dislikes:cooking
+is:android fan you think android is better than apple you guess I am an apple person
+it:gymnastics
+multipleids:false
+lastname: Thalmann
+multiplenames:<displayname>lt</displayname>, <displayname>multipleids</displayname>, I like to know what's going on., <displayname>ME</displayname>, <displayname>lt</displayname>, <displayname>slash</displayname>, <displayname>multipleids</displayname>
+birthplace:where
+dialnumber:unknown
+nationality:chinese
+meta:set
+favoriteactress:who
+brother:who
+dog:who
+status:what
+favoritetvshow:what
+gender:male
+city:which
+contactid:unknown
+boyfriend:who
+latitude:which
+phonenumber:unknown
+isanumber:false
+does:it again recognize me but she can not recognize you you2 are not benito
+email:what
+familiarpronoun:unknown
+address:where
+grandmother:who
+favoritemovie:what
+religion:unknown
+newcontact:unknown
+voicemailnumber:unknown
+displayname:unknown
+checkednameoruri:false
+country:which
+contactquery:unknown
+favoritedrink:what
+isanemailaddress:false
+favoriteband:who
+favoritesport:running
+sign:which
+husband:who
+isacontacturi:false
+favoriteicecream:what
+mother:who
+son:who
+forceaddcontact:false
+hehas:Nadia gone
+employer:who
+nephew:who
+grandfather:who
+checkedfamiliarname:false
+has:what
+residence:where
+iama:singaporean
+bestfriend:who
+likes:yourself
+favoritefood:what
+contactaddress:unknown
+familiarname:unknown
+town:which
+like:it here you like singing
+externalname:unknown
+favoritecolor:what
+longitute:which
+familiarpredicate:unknown
+girlfriend:who
+she:obsessed with Daniel
+isaname:false
+customname:unknown
+name:Ernest
+topic:gymnastics
+job:student
+daughter:who
+isfamiliarname:Where are you?
+birthday:when
+firstname:Nadine
+doing:come and visit nadia
+isaphonenumber:false
+contactlist:<item><displayname>lt</displayname></item><item><displayname>multipleids</displayname></item>I have a lot of compassion for others.<item><displayname>ME</displayname></item><item><displayname>lt</displayname></item><item><displayname>slash</displayname></item><item><displayname>multipleids</displayname></item><item>None of the above</item>
+father:who
+we:who
+savedtopic:PLAY BASKETBALL
+favoritesong:what
+contactname:unknown
+hair:what
+messagebody:unknown
+niece:who
+personality:critical
+street:which
+cat:what
+favoritebook:what
+gendername:unknown
+favoritecar:what
+learnpattern:unknown
+modecom:unknown
+orientation:unknown
+newpattern:NORESP
+learntemplate:a daughter Vanessa gets a daughter and her daughter is Julia
+equalto:false
+middlename:what
+featurerequest:PLAY GAMES
+selectedcontact:what are you capable to do
+there:where
+baby:who
+location:New York
+isshortanswer:true
+he:David Cameron
+age:how many
+isafamiliarname:false
